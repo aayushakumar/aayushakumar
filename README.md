@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 
 # 👋 Hi, I'm Aayush Kumar!
- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aayushakumar)
 
 ### 🚀 Machine Learning Engineer | AI Security | 0-to-1 Developer  
 
@@ -41,6 +40,9 @@ I enjoy **solving challenging problems with code**, improving AI models, and cre
 ☁️ **Cloud & DevOps:** Docker, Google Cloud Platform (GCP), FastAPI, Spark – orchestrating scalable cloud-native AI architectures.  
 🌐 **Full-Stack:** React, Node.js, Flask – integrating AI with dynamic and interactive web applications.  
 
+---
+
+ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aayushakumar)
 
 ---
 <!--
