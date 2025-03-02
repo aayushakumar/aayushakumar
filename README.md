@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm a **Machine Learning engineer** who loves **building things from scratch** and making systems smarter.  
 I enjoy **solving challenging problems with code**, improving AI models, and creating reliable, efficient software.  
 
-📄 **[View My Resume](https://drive.google.com/file/d/1bnWT6kJRQY1rvGJbhsJWWWYwyffyV1AO/view)**  
+📄 **[View My Resume](https://drive.google.com/file/d/1-5fqyj_N82BS0BR4dbd03yo69LdAkrvj/view?usp=sharing)**  
 
 ---
 
