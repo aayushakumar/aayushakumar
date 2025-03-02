@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 
 # 👋 Hi, I'm Aayush Kumar!
- 
+ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aayushakumar)
+
 ### 🚀 Machine Learning Engineer | AI Security | 0-to-1 Developer  
 
 I'm a **Machine Learning engineer** who loves **building things from scratch** and making systems smarter.  
