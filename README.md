@@ -52,7 +52,7 @@ I enjoy **solving challenging problems with code**, improving AI models, and cre
 -->
 
 ## 🌍 Connect with Me  
-🔗 **Website:** [aayush-kumar.netlify.app](https://aayush-kumar.netlify.app/)  
+🔗 **[Website](https://aayush-kumar.netlify.app/)**  
 💼 [LinkedIn](https://www.linkedin.com/in/aayushakumars/)  
 📧 **akuma102@uic.edu**  
 🌎 **Chicago, USA**  
