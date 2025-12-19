@@ -49,20 +49,20 @@ I enjoy **solving challenging problems with code**, improving AI models, and cre
 ## 📚 Publications
 
 ### 🧪 Peer-Reviewed & Conference Papers
-- **HybridNet: Advancing Deepfake Detection Through Residual, SE, and Depthwise Convolutions**  
+- **[HybridNet: Advancing Deepfake Detection Through Residual, SE, and Depthwise Convolutions](https://ieeexplore.ieee.org/document/11275676)**  
   *Aayush Kumar* — **IEEE Access, Vol. 13 (2025)**
 
-- **EnergyBench++: A Comprehensive Framework for Dynamic Energy–Accuracy Trade-Offs in Edge Deep Learning**  
+- **[EnergyBench++: A Comprehensive Framework for Dynamic Energy–Accuracy Trade-Offs in Edge Deep Learning](https://www.digitalxplore.org/up_proc/pdf/2938-17497938265-10.pdf)**  
   *Aayush Kumar* — **2nd ICAKMRETS Conference Proceedings (2025)**
 
-- **Joint Policy Learning for Adaptive Early-Exit Inference in Resource-Constrained Deep Learning**  
+- **[Joint Policy Learning for Adaptive Early-Exit Inference in Resource-Constrained Deep Learning](https://www.digitalxplore.org/up_proc/pdf/2938-1750074794143-148.pdf)**  
   *Aayush Kumar* — **ICAI Conference Proceedings, Bangalore, India (2025)**
 
-- **FVC-NET: An Automated Diagnosis of Pulmonary Fibrosis Progression Prediction Using Honeycombing and Deep Learning**  
+- **[FVC-NET: An Automated Diagnosis of Pulmonary Fibrosis Progression Prediction Using Honeycombing and Deep Learning](https://pubmed.ncbi.nlm.nih.gov/35103054/)**  
   *A. Yadav, R. Saxena, A. Kumar, T. S. Walia, A. Zaguia, S. M. Kamal* — **Computational Intelligence and Neuroscience (2022)**
 
 ### 📜 Patents
-- **Systems and Methods for Utilizing Large Language Models (LLMs) for Improving Machine Learning Models in Network and Computer Security**  
+- **[Systems and Methods for Utilizing Large Language Models (LLMs) for Improving Machine Learning Models in Network and Computer Security](https://patents.google.com/patent/US20250119432A1/en)**  
   *Aayush Kumar. Manikya B, Raimi S, Chenhui, Hanchen, Nikhil * — **US Patent US 2025/0119432 A1 (2025)**
 
 ---
