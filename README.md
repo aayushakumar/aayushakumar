@@ -45,14 +45,27 @@ I enjoy **solving challenging problems with code**, improving AI models, and cre
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aayushakumar)
 
 ---
-<!--
 
-## 📚 Featured Projects  
-🔹 **[Predicting Lung Function Decline](#)** – ML models for early disease detection in IPF patients.  
-🔹 **[AI-Powered Network Security](#)** – Patented LLM-based classification and compliance solutions.  
+## 📚 Publications
+
+### 🧪 Peer-Reviewed & Conference Papers
+- **HybridNet: Advancing Deepfake Detection Through Residual, SE, and Depthwise Convolutions**  
+  *Aayush Kumar* — **IEEE Access, Vol. 13 (2025)**
+
+- **EnergyBench++: A Comprehensive Framework for Dynamic Energy–Accuracy Trade-Offs in Edge Deep Learning**  
+  *Aayush Kumar* — **2nd ICAKMRETS Conference Proceedings (2025)**
+
+- **Joint Policy Learning for Adaptive Early-Exit Inference in Resource-Constrained Deep Learning**  
+  *Aayush Kumar* — **ICAI Conference Proceedings, Bangalore, India (2025)**
+
+- **FVC-NET: An Automated Diagnosis of Pulmonary Fibrosis Progression Prediction Using Honeycombing and Deep Learning**  
+  *A. Yadav, R. Saxena, A. Kumar, T. S. Walia, A. Zaguia, S. M. Kamal* — **Computational Intelligence and Neuroscience (2022)**
+
+### 📜 Patents
+- **Systems and Methods for Utilizing Large Language Models (LLMs) for Improving Machine Learning Models in Network and Computer Security**  
+  *Aayush Kumar. Manikya B, Raimi S, Chenhui, Hanchen, Nikhil * — **US Patent US 2025/0119432 A1 (2025)**
 
 ---
--->
 
 ## 🌍 Connect with Me  
 🔗 **[Website](https://aayush-kumar.me)**  
