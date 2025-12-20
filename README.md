@@ -63,7 +63,7 @@ I enjoy **solving challenging problems with code**, improving AI models, and cre
 
 ### 📜 Patents
 - **[Systems and Methods for Utilizing Large Language Models (LLMs) for Improving Machine Learning Models in Network and Computer Security](https://patents.google.com/patent/US20250119432A1/en)**  
-  *Aayush Kumar. Manikya B, Raimi S, Chenhui, Hanchen, Nikhil * — **US Patent US 2025/0119432 A1 (2025)**
+  *Aayush Kumar. Manikya B, Raimi S, Chenhui, Hanchen, Nikhil* — **US Patent US 2025/0119432 A1 (2025)**
 
 ---
 
