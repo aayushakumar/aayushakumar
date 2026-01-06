@@ -48,6 +48,13 @@ I enjoy **solving challenging problems with code**, improving AI models, and cre
 
 ## 📚 Publications
 
+### 📄 Preprints Under Review
+- **[EdgeJury: Cross-Reviewed Small-Model Ensembles for Truthful Question Answering on Serverless Edge Inference](https://arxiv.org/abs/2601.00850)**  
+  *Aayush Kumar* — **arXiv (2025)** | [DOI: 10.48550/arXiv.2601.00850](https://doi.org/10.48550/arXiv.2601.00850)
+
+- **[SkinGuardian: On-Device AI for Private, Fair, Robust, and Explainable Skin Cancer Detection](https://www.researchsquare.com/article/rs-8457987/v1)**  
+  *Aayush Kumar, Fahad Salim Dalwai* — **Research Square (2026)** | [DOI: 10.21203/rs.3.rs-8457987/v1](https://doi.org/10.21203/rs.3.rs-8457987/v1)
+
 ### 🧪 Peer-Reviewed & Conference Papers
 - **[HybridNet: Advancing Deepfake Detection Through Residual, SE, and Depthwise Convolutions](https://ieeexplore.ieee.org/document/11275676)**  
   *Aayush Kumar* — **IEEE Access, Vol. 13 (2025)**
