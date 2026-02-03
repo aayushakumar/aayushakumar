@@ -44,7 +44,7 @@ I enjoy **solving challenging problems with code**, improving AI models, and cre
 ---
 
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aayushakumar)
-
+ 
 ---
 
 ## 📚 Publications
@@ -82,3 +82,4 @@ I enjoy **solving challenging problems with code**, improving AI models, and cre
 🌎 **Chicago, USA**  
 
 > 💡 *"Building the future, one intelligent system at a time."*  
+> Actively looking for new opportunities worldwide.
